@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://notion-next-indol-nine-38.vercel.app/' },
+    { title: '我是一个热爱生活的地球村村民！', url: 'https://notion-next-indol-nine-38.vercel.app/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,11 +18,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_1: '吾乃',
+  HEO_HERO_TITLE_2: '幸福世界霸主',
+  HEO_HERO_TITLE_3: '手写小狗日记U•ェ•*U',
+  HEO_HERO_TITLE_4: '修狗🦴记事簿',
+  HEO_HERO_TITLE_5: '小狗拍了拍你 说今天要快乐！！',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -40,12 +40,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '❤ 热爱生活',
+    '🤝 向往自由',
+    '🧠 聪明肯干',
+    '🏠 ENFJ',
+    '🏃‍ 运动爱好者',
+    '👍 领导者'
   ],
 
   // 个人资料底部按钮
